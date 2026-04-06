@@ -1,8 +1,4 @@
-# 🌱 **SDG PROJECT RECORD**
-
-## **Title:**
-
-**SDG-13 Climate Analysis and Prediction System for Tamil Nadu**
+# **SDG-13 Climate Analysis and Prediction System for Tamil Nadu**
 
 ---
 
